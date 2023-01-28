@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40ffcc90-e172-45bb-8510-1095108f56db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Beans/DanhMucBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Beans/MemOfFamily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/hoKhauControllers/ChiTietController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/hoKhauControllers/ChonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/hoKhauControllers/ChuHoHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/hoKhauControllers/ChuyenDiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/hoKhauControllers/HoKhauHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/hoKhauControllers/SceneSwitchHoKhau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/hoKhauControllers/SuaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/hoKhauControllers/TachHoKhauController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/hoKhauControllers/ThanhVienHoHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/hoKhauControllers/ThemMoiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/GiaDinhModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/HoKhau/ChiTiet.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/HoKhau/Chon.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/HoKhau/ChuHo.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/HoKhau/ChuyenDi.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/HoKhau/Sua.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/HoKhau/TachHoKhau.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/HoKhau/ThemMoi.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/a-dao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/views/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Beans/HoKhauBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Beans/HoKhauBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Beans/NhanKhauBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Beans/NhanKhauBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/HoKhauController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/HoKhauController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/HoKhauService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/HoKhauService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/NhanKhauService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/NhanKhauService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/services/SQLServerConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/services/SQLServerConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/views/hokhau-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/views/hokhau-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KXHqov99OAJI0mAqxVO5BgjAiH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Cac_mon_lap_trinh/CNPM/QuanLyHoKhau/src/main/resources/view",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Cac_mon_lap_trinh\CNPM\QuanLyHoKhau\src\main\resources\view" />
+      <recent name="D:\Cac_mon_lap_trinh\CNPM\QuanLyHoKhau\src\main\resources\views" />
+      <recent name="D:\Cac_mon_lap_trinh\CNPM\QuanLyHoKhau\src\main\java\controllers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="models" />
+      <recent name="Beans" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.Main" />
+      <module name="beginning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="QuanLyHoKhau" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="QuanLyHoKhau" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40ffcc90-e172-45bb-8510-1095108f56db" name="Changes" comment="" />
+      <created>1674114201629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674114201629</updated>
+      <workItem from="1674125071589" duration="4748000" />
+      <workItem from="1674806312896" duration="5021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
